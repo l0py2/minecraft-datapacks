@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Removes all recipes"
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": ".*",
+				"path": "recipe/.*"
+			}
+		]
+	}
+}
