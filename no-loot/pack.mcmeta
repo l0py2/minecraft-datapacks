@@ -1,0 +1,34 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Removes all loot excluding blocks and entities"
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": ".*",
+				"path": "loot_table/archeology/.*"
+			},
+			{
+				"namespace": ".*",
+				"path": "loot_table/brush/.*"
+			},
+			{
+				"namespace": ".*",
+				"path": "loot_table/chests/.*"
+			},
+			{
+				"namespace": ".*",
+				"path": "loot_table/dispensers/.*"
+			},
+			{
+				"namespace": ".*",
+				"path": "loot_table/pots/.*"
+			},
+			{
+				"namespace": ".*",
+				"path": "loot_table/spawners/.*"
+			}
+		]
+	}
+}
