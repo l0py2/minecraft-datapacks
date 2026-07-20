@@ -7,14 +7,6 @@
 		"block": [
 			{
 				"namespace": ".*",
-				"path": "loot_table/archeology/.*"
-			},
-			{
-				"namespace": ".*",
-				"path": "loot_table/brush/.*"
-			},
-			{
-				"namespace": ".*",
 				"path": "loot_table/chests/.*"
 			},
 			{
